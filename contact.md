@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 date: 2006-12-17 01:32
-author: mohammed
+author: ali
 comments: true
 categories: []
 ---
